@@ -4,13 +4,13 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Link shortener website](https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq)
 
 ## Tech/framework used
-Built with ___
+Built with React js
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
 
 ## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+use npm install or yarn install
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
