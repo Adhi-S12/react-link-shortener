@@ -7,7 +7,7 @@ Find the project requirements here: [Link shortener website](https://www.codemen
 Built with React js
 
 ## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+https://bit.ly/3yFUac0
 
 ## Installation
 use npm install or yarn install
